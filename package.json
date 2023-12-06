@@ -71,7 +71,7 @@
     "@types/progress": "^2.0.3",
     "@types/universal-analytics": "^0.4.2",
     "@types/uuid": "^3.4.4",
-    "debug": "^4.1.1",
+    "debug": "^4.3.1",
     "glob": "^7.0.3",
     "node-fetch": "^2.2.0",
     "prettier": "^1.16.4",
