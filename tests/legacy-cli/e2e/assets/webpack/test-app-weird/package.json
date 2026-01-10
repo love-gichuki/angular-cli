@@ -3,9 +3,9 @@
   "license": "MIT",
   "dependencies": {
     "@angular/common": "^8.0.0-rc.0",
-    "@angular/compiler": "^8.0.0-rc.0",
+    "@angular/compiler": "^19.2.18",
     "@angular/compiler-cli": "^8.0.0-rc.0",
-    "@angular/core": "^8.0.0-rc.0",
+    "@angular/core": "^19.2.18",
     "@angular/platform-browser": "^8.0.0-rc.0",
     "@angular/platform-browser-dynamic": "^8.0.0-rc.0",
     "@angular/platform-server": "^8.0.0-rc.0",
